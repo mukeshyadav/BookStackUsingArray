@@ -1,2 +1,0 @@
-# BookStackUsingArray
-Created with CodeSandbox
